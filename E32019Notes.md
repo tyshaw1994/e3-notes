@@ -117,7 +117,22 @@
 
 ## New games
 - Watch Dogs Legion (Mar. 6 2020) - Looked more interesting than the other Watch Dogs games, but still had a lot of distracting and cringy dialog.
-- 
+- Tom Clancy's Ghost Recon Breakpoint (Oct. 4 2019) - Boring trailer with no gameplay, but THEY BROUGHT A DOGGO ON STAGE.
+- Tom Clancy's Elite Squad (no release date given) - Mobile game. 
+- Just Dance 2020 (Nov. 2019) 
+- Rainbow Six Quarantine (early 2020) - "3 player tactical co-op"
+- Roller Champions (pre-alpha available today, no release date given) - Looks like Ubi's answer to Rocket League in a way, basketball on roller skates or something like that.
+- Gods & Monsters (Feb. 25 2020) - New game by the guys that did AssCreed Odyssey, Fortnite-like artstyle. No gameplay so no idea what kind of game it is, but probably action-oriented.
 
 ## Updates
-- 
+- For Honor Shadows of the Hitokiri (available now)
+- The Division 2 Episode 3 (early 2020) - DLC
+
+### Grade: C-
+
+#### The Good
+- Watch Dogs Legion was a good opening, with some actual gameplay and focus on the game itself
+
+#### The Bad
+- Very few games overall, too much focus on DLC and tired franchises (Tom Clancy)
+- Nothing exciting or surprising
