@@ -27,11 +27,23 @@
 - Star Wars Jedi Fallen Order (Nov. 15 2019) meh
 - Cyberpunk 2077 (Apr. 16 2020)
 - Battletoads (no release date given)
-- Age of Empires II Definitive Edition (Fall 2019)- looks to be PC only
+- Age of Empires II Definitive Edition (Fall 2019) - looks to be PC only
 - Gears of War 5 (Sept. 10 2019)
 - Dying Light 2 (Spring 2020)
 - Forza Horizon 4 Lego (June 13 2019)
 - Borderlands 3 (Sept. 13 2019)
+
+### Grade: C+/B-
+
+#### The Good
+- It's good that Microsoft is embracing PC as one of their own platforms, which it is
+- Tales of Arise and Elden Rings are good Japanese representation for MS
+- Scarlett 
+
+#### The Bad
+- Very little gameplay 
+- Halo trailer was kind of boring for what is essentially a "tech demo" for Scarlett
+- Pacing was off, most interesting games were backloaded and the first half was boring
 
 # Bethesda - stuff missing, was watching hockey
 
@@ -47,6 +59,17 @@
 - Doom Eternal (Nov. 22 2019)
 - Rage 2 DLC (no release date given)
 - Elder Scrolls Online Moons of Elsweyr (June 27 2019)
+
+### Grade: F
+
+#### The Good
+- Ghostwire Tokyo and Deathloop had intriguing trailers
+- Doom looks great
+
+#### The Bad
+- Way too much focus on mobile games
+- Almost no new announcements
+- Nothing for Elder Scrolls VI
 
 # PC Gaming Show
 
@@ -80,3 +103,21 @@
 - Telling Lies (no release date given) - spiritual successor to Her Story
 - El Hijo (no release date given)
 - Baldur's Gate III (no release date given) - Loved Divinity Original Sin 2, might get some friends together to play this when it comes out
+
+### Grade: D+
+
+#### The Good
+- Lots of games, lots of different genres
+
+#### The Bad
+- Too many games, not enough focus on individual games
+- Boring overall
+
+# Ubisoft
+
+## New games
+- Watch Dogs Legion (Mar. 6 2020) - Looked more interesting than the other Watch Dogs games, but still had a lot of distracting and cringy dialog.
+- 
+
+## Updates
+- 
