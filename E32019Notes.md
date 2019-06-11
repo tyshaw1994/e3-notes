@@ -53,7 +53,6 @@
 - Deathloop (no release date given) - by the Dishonored guys
 - Commander Keen (no release date given?) - mobile game
 
-
 ## Updates
 - Fallout 76 Wastelanders (Fall 2019) - added NPCS!
 - Doom Eternal (Nov. 22 2019)
@@ -104,7 +103,7 @@
 - El Hijo (no release date given)
 - Baldur's Gate III (no release date given) - Loved Divinity Original Sin 2, might get some friends together to play this when it comes out
 
-### Grade: D+
+### Grade: D
 
 #### The Good
 - Lots of games, lots of different genres
@@ -128,7 +127,7 @@
 - For Honor Shadows of the Hitokiri (available now)
 - The Division 2 Episode 3 (early 2020) - DLC
 
-### Grade: C-
+### Grade: D+
 
 #### The Good
 - Watch Dogs Legion was a good opening, with some actual gameplay and focus on the game itself
@@ -136,3 +135,35 @@
 #### The Bad
 - Very few games overall, too much focus on DLC and tired franchises (Tom Clancy)
 - Nothing exciting or surprising
+
+# Square Enix
+
+## New games
+- Circuit Superstars (2020) - Indie motorsport game
+- Romancing Saga 3 (coming soon)
+- SaGa Scarlet Grace (coming soon)
+- War of the Visions: Final Fantasy Brave Exvius (no release date given)
+- Outriders (Summer 2020) - not sure what this game is, looks like a shooter
+- Final Fantasy VIII Remastered (2019)
+- Marvel's Avengers (May 15 2020)
+
+
+## Updates
+- Final Fantasy VII Remake (Mar. 3 2020) - Would have personally preferred they kept it fully turn based but the mix of real time combat and ATB seems pretty interesting. 
+- Final Fantasy Crystal Chronicles Remastered (Winter) - Gonna probably play this game
+- The Last Remnant Remastered (available now)
+- Dragon Quest Builders 2 (July 12 2019) 
+- Dragon Quest XI S (Fall 2019)
+- Kingdom Hearts III Remind (late 2019)
+- Final Fantasy XIV Shadowbringers (July 2 2019)
+- Oninaki (Aug. 22 2019)
+
+### Grade: C+
+
+#### The Good:
+- FFVII remake looks pretty tight
+- Some of the ports/remasters are interesting (SaGa, Last Remnant, FFVIII)
+
+#### The Bad:
+- No big bombshells (where's Yoko Taro? What about Bravely Third?)
+- Too much focus on games that were already announced
