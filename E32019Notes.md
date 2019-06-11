@@ -167,3 +167,44 @@
 #### The Bad:
 - No big bombshells (where's Yoko Taro? What about Bravely Third?)
 - Too much focus on games that were already announced
+
+# Nintendo
+
+## New games
+- Some Jim Henson Dark Crystal game with a wicked long title
+- Trials of Mana (Early 2020) - 3D remake for Switch/PS4/PC
+- Collection of Mana (out now) - collection of older Mana titles
+- The Witcher 3 Switch (2019) - oh god why
+- Resident Evil 5 and 6 Switch ports (Fall 2019)
+- No More Heroes III (2020)
+- Contra Rogue Corps (Sept. 24 2019)
+- Contra Collection (out now)
+- Pander Dragoon (Winter 2019)
+- Empire of Sin (Spring 2020) - isometric shooter
+- Marvel Ultimate Alliance 3 (July 19 2019)
+- Mario and Sonic Tokyo 2020 Olympics (missed the release date)
+- Animal Crossing New Horizons (Mar. 20 2020) - aww it got delayed to 2020 :(
+- Sizzle reel with some games that were already announced, including the original Ni no Kuni (Sept 19 2019)
+- Banjo for Smash (Fall 2019)
+- The Legend of Zelda Breath of the Wild Sequal (no info given)
+
+## Updates
+- Super Smash Bros. Ultimate DLC Fighter 2 - The Hero (Dragon Quest) (Summer 2019) - Either a few echo fighters or one character with different skins
+- Luigi's Mansion 3 (2019) - Includes local co-op and some online multiplayer modes. Setting looks a lot more varied than the other two games.
+- The Legend of Zelda: Link's Awakening (Sept. 20 2019) - Looks pretty tight
+- Fire Emblem Three Houses (July 26 2019)
+- Daemon X Machina (Sept. 13 2019)
+- Astral Chain (Aug. 30 2019)
+- Cadence of Hyrule (Crypt of the Necrodancer) (June 13 2019)
+
+### Grade: B+/A-
+
+#### The Good
+- Lots of good games getting Switch ports, like Collection of Mana and The Witcher 3
+- Actual gameplay 
+- Some great surprises (Banjo for Smash, new Zelda game)
+- Very little filler
+- ANIMAL CROSSING
+
+#### The Bad
+- Animal Crossing delayed >:(
